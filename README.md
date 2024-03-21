@@ -1,0 +1,1 @@
+This website, created with PHP and MySQL, is an online shopping platform. An admin controls the site, with the ability to delete or upload items. Separate sections for male and female clothing, along with a feature for popular picks, make it easy for customers to find trendy options. Customers can add items to their cart and place orders
